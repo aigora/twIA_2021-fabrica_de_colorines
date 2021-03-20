@@ -23,4 +23,9 @@ Haremos un programa con Arduino donde diferenciara los objetos por colores.
 
 ## Objetivos del trabajo
 
-El objetivo es la clasificación
+El objetivo es la clasificación, de un objeto a determinar, por colores desechando
+
+
+los no reguistrados y pudiendo elejir la cantidad de ojetos que se quiera de un color 
+
+queremos que sea util para la fabricacion a gran escala
