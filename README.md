@@ -9,17 +9,16 @@ Haremos un programa con Arduino donde diferenciara los objetos por colores.
 	
   Santiago, García-Cubillana, @SantiagoGarCubCarr
   
-	
-	Remi,garcia, @remigg
+  Remi,garcia, @remigg
   
 	
-	Sara, Aparicio, @SaraAparicio22
+  Sara, Aparicio, @SaraAparicio22
   
 	
-	Elena, Diez, @elenadiezdeantonio
+ Elena, Diez, @elenadiezdeantonio
   
 	
-	Sergio,Grande, Hortigüela: @SergioGH-byte
+ Sergio,Grande, Hortigüela: @SergioGH-byte
 
 
 ## Objetivos del trabajo
