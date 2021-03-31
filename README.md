@@ -1,4 +1,4 @@
-# FABRICA DE COLORINES
+# CLASIFICADOR DE COLORES
 
 Haremos un programa con Arduino donde diferenciara los objetos por colores.
 
