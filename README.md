@@ -30,3 +30,4 @@ los no reguistrados y pudiendo elejir la cantidad de ojetos que se quiera de un 
 
 queremos que sea util para la fabricacion a gran escala
 [word] (https://docs.google.com/document/d/18OEEJNJgp1LBrhb3ap-D7G-vQ7hBCEfiqoIfOE8R9hQ/edit?usp=sharing)
+[Ejemplo] (https://www.google.com/)
