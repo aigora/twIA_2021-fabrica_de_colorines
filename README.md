@@ -1,3 +1,4 @@
+[proyecto informática[780].pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6326050/proyecto.informatica.780.pdf)
 # CLASIFICADOR DE COLORES
 
 Haremos un programa con Arduino donde diferenciara los objetos por colores.
@@ -30,10 +31,5 @@ los no reguistrados y pudiendo elejir la cantidad de ojetos que se quiera de un 
 
 queremos que sea util para la fabricacion a gran escala.
 ## WORD 
-https://docs.google.com/document/d/18OEEJNJgp1LBrhb3ap-D7G-vQ7hBCEfiqoIfOE8R9hQ/edit?usp=sharing
+[proyecto informática[780].pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6326051/proyecto.informatica.780.pdf)
 
-
-##DISEÑO DEL SISTEMA 
-
-
-https://docs.google.com/document/d/1SGrjvWYfO2jPeYAVyv1HoZotzvFFn42QUCIG4j43C9M/edit?usp=drivesdk
