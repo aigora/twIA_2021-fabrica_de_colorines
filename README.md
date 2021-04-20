@@ -33,3 +33,6 @@ queremos que sea util para la fabricacion a gran escala.
 ## WORD 
 [proyecto informática[780].pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6326051/proyecto.informatica.780.pdf)
 
+## DISEÑO DEL SISTEMA
+[Diseño de sistema.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6342455/Diseno.de.sistema.pdf)
+
