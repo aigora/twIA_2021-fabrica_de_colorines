@@ -35,8 +35,11 @@ queremos que sea util para la fabricacion a gran escala.
 [proyecto informática.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6326051/proyecto.informatica.780.pdf)
 
 ## DISEÑO DEL SISTEMA
-[Diseño de sistema.pdf](https[MEDIDAS.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6369717/MEDIDAS.pdf)
-://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6342455/Diseno.de.sistema.pdf)
+[Diseño de sistema.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6370566/Diseno.de.sistema.pdf)
+
+[MEDIDAS.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6370568/MEDIDAS.pdf)
+
+
 
 ## Servo Tolva
 [ServoTolva.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6366650/ServoTolva.pdf)
