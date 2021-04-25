@@ -1,7 +1,3 @@
-[Programa Selección de colores.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6372040/Programa.Seleccion.de.colores.pdf)
-[Programa Selección de colores.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6372041/Programa.Seleccion.de.colores.pdf)
-[MEDIDAS.docx](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6369686/MEDIDAS.docx)
-
 # CLASIFICADOR DE COLORES
 
 Haremos un programa con Arduino donde diferenciara los objetos por colores.
@@ -42,8 +38,11 @@ queremos que sea util para la fabricacion a gran escala.
 [MEDIDAS.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6370568/MEDIDAS.pdf)
 
 
-
 ## Servo Tolva
 [ServoTolva.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6366650/ServoTolva.pdf)
+
+## Versión actualizada del programa de selección de colores-cantidad
+[Programa Selección de colores.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6372043/Programa.Seleccion.de.colores.pdf)
+
 
 
