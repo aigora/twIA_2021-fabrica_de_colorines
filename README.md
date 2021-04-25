@@ -1,3 +1,5 @@
+[Programa Selección de colores.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6372040/Programa.Seleccion.de.colores.pdf)
+[Programa Selección de colores.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6372041/Programa.Seleccion.de.colores.pdf)
 [MEDIDAS.docx](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6369686/MEDIDAS.docx)
 
 # CLASIFICADOR DE COLORES
