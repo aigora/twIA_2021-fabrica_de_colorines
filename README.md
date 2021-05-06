@@ -43,5 +43,8 @@ queremos que sea util para la fabricacion a gran escala.
 ## Versión actualizada del programa de selección de colores-cantidad
 [Programa Selección de colores.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6372043/Programa.Seleccion.de.colores.pdf)
 
+## Programa del sensor de colores (no definitivo)
+[sensor de color no definitivo.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6432837/sensor.de.color.no.definitivo.pdf)
+
 
 
