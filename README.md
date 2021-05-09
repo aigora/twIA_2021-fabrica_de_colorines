@@ -50,6 +50,7 @@ queremos que sea util para la fabricacion a gran escala.
 
 [motor_cinta_Arduino.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6448091/motor_cinta_Arduino.pdf)
 
-
+### base de arduino
+[arduino_base.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6448466/arduino_base.pdf)
 
 
