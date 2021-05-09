@@ -46,5 +46,10 @@ queremos que sea util para la fabricacion a gran escala.
 ## Programa del sensor de colores (no definitivo)
 [sensor de color no definitivo.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6432837/sensor.de.color.no.definitivo.pdf)
 
+## Programa motro de la cinta principal
+
+[motor_cinta_Arduino.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6448091/motor_cinta_Arduino.pdf)
+
+
 
 
