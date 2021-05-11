@@ -53,4 +53,6 @@ queremos que sea util para la fabricacion a gran escala.
 ### base de arduino
 [arduino_base.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6448466/arduino_base.pdf)
 
+###conjunto pistones, tolva y cinta principal
+[conjunto_pistones_tolva_cinta.pdf](https://github.com/aigora/twIA_2021-fabrica_de_colorines/files/6460718/conjunto_pistones_tolva_cinta.pdf)
 
