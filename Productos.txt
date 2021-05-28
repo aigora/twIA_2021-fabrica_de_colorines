@@ -1,0 +1,13 @@
+4
+2
+amarillo
+8
+9
+rosa
+4
+6
+rojo
+2
+7
+verde
+5
