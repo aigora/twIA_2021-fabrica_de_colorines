@@ -1,0 +1,6 @@
+﻿  SerialClass.cpp
+  Source.cpp
+C:\Users\GHVIP\Desktop\fabrica de colorines\fabrica de colorines 2.0\Source.cpp(244,24): warning C4477: 'fscanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\GHVIP\Desktop\fabrica de colorines\fabrica de colorines 2.0\Source.cpp(244,24): message : considere el uso de ' %hhd' en la cadena de formato
+  Generando código...
+  fabrica de colorines 2.0.vcxproj -> C:\Users\GHVIP\Desktop\fabrica de colorines\fabrica de colorines 2.0\Debug\fabrica de colorines 2.0.exe
